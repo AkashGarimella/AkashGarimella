@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Garimella</h1>
-<h3 align="center">Pursuing my bachelor's is CSE-Artificial Intelligence</h3>
+<h3 align="center">Pursuing my bachelor's in CSE-Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgarimella&label=Profile%20views&color=0e75b6&style=flat" alt="akashgarimella" /> </p>
 
