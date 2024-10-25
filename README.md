@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgarimella&label=Profile%20views&color=0e75b6&style=flat" alt="akashgarimella" /> </p>
 
-- 🔭 I’m currently working on **Machine learning projects**
+- 🔭 I’m currently working on **Machine learning**
 
-- 🌱 I’m currently learning **Machine Learning and FLASK**
+- 🌱 I’m currently learning **Deep Nueral Networks**
 
-- 📫 How to reach me **akash18062003@gmail.com**
+- 📫 How to reach me **akashgarimella18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
